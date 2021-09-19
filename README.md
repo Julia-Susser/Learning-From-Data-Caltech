@@ -16,9 +16,9 @@ Yaser Mostafa Caltech Machine Learning Course Homework Assignments
   * Multiple bins (finite hypothesis set, learning: search for green sample)
   * Union Bound (uniform inequality, M factor)
 * Data Snooping
- * Definition and analysis (data contamination, model selection)
+  * Definition and analysis (data contamination, model selection)
 * Error Measures
- * User-specified error function (pointwise error, CIA, supermarket)
+  * User-specified error function (pointwise error, CIA, supermarket)
 * Gradient Descent
   * Basic method (Batch GD) (first-order optimization)
   * Discussion (initialization, termination, local minima, second-order methods)
@@ -28,8 +28,8 @@ Yaser Mostafa Caltech Machine Learning Course Homework Assignments
   * Definition and illustration (complex models versus simple models)
   * Linear Regression example (learning curves for noisy linear target)
 * Learning Diagram
- * Components of learning (target function, hypothesis set, learning algorithm)
- * Input probability distribution (unknown distribution, bin, Hoeffding)
+  * Components of learning (target function, hypothesis set, learning algorithm)
+  * Input probability distribution (unknown distribution, bin, Hoeffding)
 * Error measure (role in learning algorithm)
  * Noisy targets (target distribution)
  * Where the VC analysis fits (affected blocks in learning diagram)
