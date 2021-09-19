@@ -2,14 +2,14 @@
 Yaser Mostafa Caltech Machine Learning Course Homework Assignments
 
 
-Aggregation
-Overview of ensemble learning (boosting, blending, before and after the fact)
-Bayesian Learning
-Validity of the Bayesian approach (prior, posterior, unknown versus probabilistic)
-Bias-Variance Tradeoff
-Basic derivation (overfit and underfit, approximation-generalization tradeoff)
-Example (sinusoidal target function)
-Noisy case (Bias-variance-noise decomposition)
+* Aggregation
+  * Overview of ensemble learning (boosting, blending, before and after the fact)
+* Bayesian Learning
+  * Validity of the Bayesian approach (prior, posterior, unknown versus probabilistic)
+* Bias-Variance Tradeoff
+  * Basic derivation (overfit and underfit, approximation-generalization tradeoff)
+  * Example (sinusoidal target function)
+  * Noisy case (Bias-variance-noise decomposition)
 Bin Model
 Hoeffding Inequality (law of large numbers, sample, PAC)
 Relation to learning (from bin to hypothesis, training data)
