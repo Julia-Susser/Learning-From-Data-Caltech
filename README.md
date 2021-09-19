@@ -11,22 +11,22 @@ Yaser Mostafa Caltech Machine Learning Course Homework Assignments
   * Example (sinusoidal target function)
   * Noisy case (Bias-variance-noise decomposition)
 * Bin Model
- * Hoeffding Inequality (law of large numbers, sample, PAC)
- * Relation to learning (from bin to hypothesis, training data)
- * Multiple bins (finite hypothesis set, learning: search for green sample)
- * Union Bound (uniform inequality, M factor)
+  * Hoeffding Inequality (law of large numbers, sample, PAC)
+  * Relation to learning (from bin to hypothesis, training data)
+  * Multiple bins (finite hypothesis set, learning: search for green sample)
+  * Union Bound (uniform inequality, M factor)
 * Data Snooping
  * Definition and analysis (data contamination, model selection)
 * Error Measures
  * User-specified error function (pointwise error, CIA, supermarket)
 * Gradient Descent
- * Basic method (Batch GD) (first-order optimization)
- * Discussion (initialization, termination, local minima, second-order methods)
- * Stochastic Gradient Descent (the algorithm, SGD in action)
- * Initialization - Neural Networks (random weights, perfect symmetry)
+  * Basic method (Batch GD) (first-order optimization)
+  * Discussion (initialization, termination, local minima, second-order methods)
+  * Stochastic Gradient Descent (the algorithm, SGD in action)
+  * Initialization - Neural Networks (random weights, perfect symmetry)
 * Learning Curves
- * Definition and illustration (complex models versus simple models)
- * Linear Regression example (learning curves for noisy linear target)
+  * Definition and illustration (complex models versus simple models)
+  * Linear Regression example (learning curves for noisy linear target)
 * Learning Diagram
  * Components of learning (target function, hypothesis set, learning algorithm)
  * Input probability distribution (unknown distribution, bin, Hoeffding)
